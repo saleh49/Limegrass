@@ -1,2 +1,2 @@
 # Limegrass
-A Sublime Color Scheme
+🌱 A grassy and colorful over dark Sublime Text theme.
