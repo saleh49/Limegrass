@@ -3,27 +3,27 @@
 
 This theme is designed for front-end as well as back-end development, covering HTML, CSS, Javascript, PHP, Python and Markdown. Mileage may vary for other languages. Utilises both italics and bold weights for certain scopes.
 
-*HTML*
+**HTML**
 
 ![HTML preview screenshot](html.jpeg)
 
 
-*CSS*
+**CSS**
 
 ![CSS preview screenshot](css.jpeg)
 
 
-*Javascript*
+**Javascript**
 
 ![Javascript preview screenshot](js.jpeg)
 
 
-*PHP*
+**PHP**
 
 ![PHP preview screenshot](php.jpeg)
 
 
-*Python*
+**Python**
 
 ![Python preview screenshot](python.jpeg)
 
